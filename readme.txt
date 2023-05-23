@@ -1,0 +1,2 @@
+To run my assignment, you need to make sure one you are in the proper environment. Next, change the file path in the function "load_and_preprocess_data", 
+and make sure this is the proper data you want to run. Then you can see the proper output to see how it is evaluated. You can also run this in a jupyter notebook as well.
